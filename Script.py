@@ -103,7 +103,7 @@ Translate text to speech
 
 • Minnal Murali should have admin privillage.
 • These commands works on both pm and group.
-• This is a exclusive feature of Minnal Murali can translate texts to 200+ languages."""
+• This is a exclusive feature of Minnal Murali."""
     PINGS_TXT ="""<b>🌟 Ping:</b>
 
 Helps you to know your ping 🚶🏼‍♂️
