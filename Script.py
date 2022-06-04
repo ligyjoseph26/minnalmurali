@@ -198,7 +198,7 @@ these are the extra features of this bot
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
-• /sats  - <code>get the bots db status.</code>
+• /stats  - <code>get the bots db status.</code>
 • /help  - <code>get my extra features .</code>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
